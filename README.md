@@ -12,20 +12,21 @@ This project is a Python-based program designed to arrange students into an exam
 
 ## Technologies/Tools Used
 * Programming language: Python 3.x
-* Jupyter Notebook (`main.ipynb`)
+* Jupyter Notebook (`main.ipynb`) & Command-Line interface(`main.py`)
 * Custom Python Packages (`seating_plan` and `tests`)
 
 ## Steps to Install & Run the Project
-1. Prerequisites: Make sure you have Python and Jupyter Notebook installed on your computer(or use an environment like Anaconda or Google Colab).
-2. Download or clone the project repository containing the project files (`main.ipynb`, the `seating_plan/` directory, and the `tests/` directory).
-3. Launch Jupyter Notebook or JupyterLab on your computer.
-4. Open the `main.ipynb` notebook.
-5. Run the code cells sequentially to input student lists, define grid dimensions, generate the seating plan, and view total branch clashes.
+1. Prerequisites: Make sure you have Python installed on your computer along with the project files (`main.py`, `main.ipynb`, the `seating_plan/` directory, and the `tests/` directory).
+2. Download or clone the project repository.
+3. Open your command prompt or terminal and navigate to the `exam_seating_and_branch_collision_checker_project` folder.
+4. Run the following command :
+   ```bash
+   python main.py
 
 ## Instructions for Testing
-1. Locate the testing section within `main.ipynb` or open the `tests/test_collisions.py` file.
-2. Run the test execution cell (`run_tests()`) to simulate a test grid configuration.
-3. Verify that the system successfully asserts the test conditions, outputting `SUCCESS: Collision test passed successfully!`.
+1. ​Execute python main.py in your command prompt.
+​2. The script will automatically output the seating plan, clash count, and run the automated test script (run_tests()).
+​3. Verify that the system outputs the success confirmation for the test suite i.e, `SUCCESS: Collision test passed successfully!`
 
 ## Screenshots
 It's been provided in the project pdf. 
