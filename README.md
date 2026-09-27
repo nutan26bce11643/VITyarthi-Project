@@ -25,8 +25,8 @@ This project is a Python-based program designed to arrange students into an exam
 
 ## Instructions for Testing
 1. ​Execute python main.py in your command prompt.
-​2. The script will automatically output the seating plan, clash count, and run the automated test script (run_tests()).
-​3. Verify that the system outputs the success confirmation for the test suite i.e, `SUCCESS: Collision test passed successfully!`
+2. The script will automatically output the seating plan, clash count, and run the automated test script (run_tests()).
+3. Verify that the system outputs the success confirmation for the test suite i.e, `SUCCESS: Collision test passed successfully!`
 
 ## Screenshots
 It's been provided in the project pdf. 
