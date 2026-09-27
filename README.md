@@ -16,10 +16,11 @@ This project is a Python-based program designed to arrange students into an exam
 * Custom Python Packages (`seating_plan` and `tests`)
 
 ## Steps to Install & Run the Project
-1. Download or clone the project repository containing the project files (`main.ipynb`, the `seating_plan/` directory, and the `tests/` directory).
-2. Launch Jupyter Notebook or JupyterLab on your local machine.
-3. Open the `main.ipynb` notebook.
-4. Run the code cells sequentially to input student lists, define grid dimensions, generate the seating plan, and view total branch clashesd_span.
+1. Prerequisites: Make sure you have Python and Jupyter Notebook installed on yur computer(or use an environment like Anaconda or Google Colab).
+2. Download or clone the project repository containing the project files (`main.ipynb`, the `seating_plan/` directory, and the `tests/` directory).
+3. Launch Jupyter Notebook or JupyterLab on your computer.
+4. Open the `main.ipynb` notebook.
+5. Run the code cells sequentially to input student lists, define grid dimensions, generate the seating plan, and view total branch clashes.
 
 ## Instructions for Testing
 1. Locate the testing section within `main.ipynb` or open the `tests/test_collisions.py` file.
