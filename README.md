@@ -16,7 +16,7 @@ This project is a Python-based program designed to arrange students into an exam
 * Custom Python Packages (`seating_plan` and `tests`)
 
 ## Steps to Install & Run the Project
-1. Prerequisites: Make sure you have Python and Jupyter Notebook installed on yur computer(or use an environment like Anaconda or Google Colab).
+1. Prerequisites: Make sure you have Python and Jupyter Notebook installed on your computer(or use an environment like Anaconda or Google Colab).
 2. Download or clone the project repository containing the project files (`main.ipynb`, the `seating_plan/` directory, and the `tests/` directory).
 3. Launch Jupyter Notebook or JupyterLab on your computer.
 4. Open the `main.ipynb` notebook.
