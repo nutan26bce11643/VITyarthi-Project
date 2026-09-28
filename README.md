@@ -29,6 +29,7 @@ This project is a Python-based program designed to arrange students into an exam
 3. Verify that the system outputs the success confirmation for the test suite i.e, `SUCCESS: Collision test passed successfully!`
 
 ## Screenshots
-It's been provided in the project pdf. 
+It's been provided in the project pdf.
+
 <img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/45347ebd-479d-448c-ad1d-53ccf9f96599" />
 
