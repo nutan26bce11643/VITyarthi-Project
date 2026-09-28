@@ -30,3 +30,5 @@ This project is a Python-based program designed to arrange students into an exam
 
 ## Screenshots
 It's been provided in the project pdf. 
+<img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/45347ebd-479d-448c-ad1d-53ccf9f96599" />
+
